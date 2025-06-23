@@ -55,3 +55,82 @@ So here is the list of hardware I have chosen :
 
 
 **Total time spent: 4h**
+
+
+# June 22:Configuring the Softwares and Making the preparation for!
+
+Today, I will be configuring the softwares so we can start configuring the softwres we are going to use!
+So, let's start configuring
+1st, we are going to configure the SD card formatter by putting the SD card in your device's SD card slot. See the instructions below:
+
+MicroSD Card Configuration   ![download](https://github.com/user-attachments/assets/3e3ea0b8-fb23-4e1d-b429-b42d68a4f8b4)
+
+✅ Step 1: Format the SD Card
+Use FAT32 format
+
+Use the built-in OS tool 
+
+✅ Step 2: Prepare Music Files
+File format: .mp3 (or .wav)
+
+File naming format:
+
+```
+0001.mp3  
+0002.mp3  
+0003.mp3
+```  
+Copy files to the root folder (not in subfolders)
+
+✅ Step 3: Insert the SD Card into the DFPlayer Mini
+Slide it in gently until it clicks
+
+Next we have Arduino IDE Setup:
+
+Arduino IDE Setup (Code Upload) ![download](https://github.com/user-attachments/assets/ba2fe042-34ed-4391-8701-edda769ccf6b)
+
+  
+✅ Step 1: Install Arduino IDE
+Download: https://www.arduino.cc/en/software
+
+Install and launch it.
+
+✅ Step 2: Select Arduino Nano
+Go to: Tools → Board → Arduino Nano
+
+Go to: Tools → Processor → ATmega328P (Old Bootloader) (if your Nano uses that)
+
+✅ Step 3: Install DFPlayer Library
+Go to: Sketch → Include Library → Manage Libraries…
+
+Search: DFRobotDFPlayerMini
+
+Click Install
+
+✅ Step 4: Plug in Arduino Nano
+Connect via USB cable
+
+Go to Tools → Port and select the correct COM port
+
+✅ Step 5: Load Code
+Paste your AquaBeats code or use the provided .ino file
+
+Click ✅ Verify → Then 🔼 Upload
+
+Last, configuring the Audio File Making compatible to DF Player
+
+*Audio File Prep (Optional)*  ![download](https://github.com/user-attachments/assets/9348a9a6-a4c9-46c7-969d-3c0d3f3793d5)
+
+
+Use Audacity or Online Converter:
+
+Convert your audio files to .mp3
+
+Export at 128 kbps, 44.1 kHz
+
+Rename: 0001.mp3, 0002.mp3, etc.
+
+Copy to SD card root
+
+
+**Total time spent: 2h**
