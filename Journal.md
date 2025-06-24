@@ -63,7 +63,7 @@ Today, I will be configuring the softwares so we can start configuring the softw
 So, let's start configuring
 1st, we are going to configure the SD card formatter by putting the SD card in your device's SD card slot. See the instructions below:
 
-MicroSD Card Configuration   ![download](https://github.com/user-attachments/assets/3e3ea0b8-fb23-4e1d-b429-b42d68a4f8b4)
+MicroSD Card Configuration   
 
 ✅ Step 1: Format the SD Card
 Use FAT32 format
@@ -87,7 +87,7 @@ Slide it in gently until it clicks
 
 Next we have Arduino IDE Setup:
 
-Arduino IDE Setup (Code Upload) ![download](https://github.com/user-attachments/assets/ba2fe042-34ed-4391-8701-edda769ccf6b)
+Arduino IDE Setup (Code Upload) 
 
   
 ✅ Step 1: Install Arduino IDE
@@ -119,7 +119,7 @@ Click ✅ Verify → Then 🔼 Upload
 
 Last, configuring the Audio File Making compatible to DF Player
 
-*Audio File Prep (Optional)*  ![download](https://github.com/user-attachments/assets/9348a9a6-a4c9-46c7-969d-3c0d3f3793d5)
+*Audio File Prep (Optional)*  
 
 
 Use Audacity or Online Converter:
@@ -134,3 +134,25 @@ Copy to SD card root
 
 
 **Total time spent: 2h**
+
+# June 23:Programming the Half Arduino Code!
+
+So, today I will be starting coding arduino code but it takes a lot of time to code, so i will be just be coding the half arduino code and I will give you soem instructions what to do or what configurations should we do in while coding:
+
+Note: The full .ino file or the arduino code file is given in the Important Files Folder.
+
+So, let's start:
+
+Here is the pic of what I did today:
+
+![Screenshot 2025-06-24 143218](https://github.com/user-attachments/assets/2284add0-e61d-48d8-aa0e-d13eabaef3ba)
+
+
+And Tomorrow I will be completing the code and starting to make the README and 3D Model.
+
+
+Note: That the full code will be avaible Tomorrow because my full code is remaining to be written.
+Instructions: Use Arduino Cloud Editor if you don't have the app
+**Total time spent: 3h**
+
+
