@@ -156,4 +156,5 @@ Instructions: Use Arduino Cloud Editor if you don't have the app.
 
 **Total time spent: 3h**
 
-
+# June 25:Completed Arduino Code!
+So  today I will be Completing the Arduino Code and Debugging it, and also I am going to put the Arduino code file in the Important Files Folder and the Main Directory, so dont forget so check it.
