@@ -57,7 +57,7 @@ So here is the list of hardware I have chosen :
 **Total time spent: 4h**
 
 
-# June 22:Configuring the Softwares and Making the preparation for!
+# June 23:Configuring the Softwares and Making the preparation for!
 
 Today, I will be configuring the softwares so we can start configuring the softwres we are going to use!
 So, let's start configuring
@@ -135,7 +135,7 @@ Copy to SD card root
 
 **Total time spent: 2h**
 
-# June 23:Programming the Half Arduino Code!
+# June 24:Programming the Half Arduino Code!
 
 So, today I will be starting coding arduino code but it takes a lot of time to code, so i will be just be coding the half arduino code and I will give you soem instructions what to do or what configurations should we do in while coding:
 
