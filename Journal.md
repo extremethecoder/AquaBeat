@@ -152,7 +152,8 @@ And Tomorrow I will be completing the code and starting to make the README and 3
 
 
 Note: That the full code will be avaible Tomorrow because my full code is remaining to be written.
-Instructions: Use Arduino Cloud Editor if you don't have the app
+Instructions: Use Arduino Cloud Editor if you don't have the app.
+
 **Total time spent: 3h**
 
 
