@@ -211,8 +211,23 @@ If everything is correct, it will say:
 Done uploading.
 and your Nano will start running the program immediately.
 
+**Total time spent: 4h**
+
 # June 26:Writing the README!
 
+2.00 PM
 So, today I will be writing the README for my project and also giving all the features and everything else in it, so pls check it!
 
 README is important for the project so that we can see evrything of the project it's features and everything, and I will be writing the whole README  so that it covers the whole project.
+
+3.00 PM
+Wrote and finalized the README.md file for the AquaBeats MP3 Player GitHub repository.
+
+Documented all core features of the project, including hardware components, wiring diagram, Arduino code structure, 3D modeling instructions, and how to load music files onto the MicroSD card.
+
+Created a clear, professional layout for the README with sections like Features, Materials, Wiring, Upload Instructions, and Future Upgrades.
+
+Ensured the README is easy to follow for beginners and showcases the project's functionality in a clear and polished way.
+
+**Total time spent: 1h**
+
