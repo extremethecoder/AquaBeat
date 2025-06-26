@@ -157,4 +157,56 @@ Instructions: Use Arduino Cloud Editor if you don't have the app.
 **Total time spent: 3h**
 
 # June 25:Completed Arduino Code!
-So  today I will be Completing the Arduino Code and Debugging it, and also I am going to put the Arduino code file in the Important Files Folder and the Main Directory, so dont forget so check it.
+So  today I will be Completing the Arduino Code and Debugging it, and also I am going to put the Arduino code file in the Important Files Folder and the Main Directory, so dont forget so check it. And also I am using the Arduino Cloud Editor That can be accessed by Going to Arduino Cloud. So Let's see what have I done:
+
+Here are some pics:
+
+![image](https://github.com/user-attachments/assets/a3ff17b5-7834-4964-9851-2ca3febb883f)
+
+Here are some Instructions for the code:
+
+*You need the DFRobotDFPlayerMini library*
+
+In Arduino IDE, go to:
+
+Sketch → Include Library → Manage Libraries…
+
+In the Library Manager, search for:
+
+DFRobotDFPlayerMini
+
+Click Install.
+
+*Connect Your Arduino Nano*
+Plug the Arduino Nano into your PC via USB cable.
+
+Wait for drivers to install automatically (on Windows).
+
+If using a clone Nano, you'll likely need to install the CH340 driver manually:
+Download CH340 Driver
+
+*Select Board and Port*
+In the Arduino IDE:
+
+Go to Tools → Board → Select "Arduino Nano"
+
+Go to Tools → Processor → Choose "ATmega328P (Old Bootloader)" (for most clones)
+
+Go to Tools → Port → Select the COM port your Nano appears on
+
+*The Code*
+Open a new sketch (File → New)
+
+Paste the full Arduino code I gave you in the.
+
+Save the file with a project name like AquaBeats.ino
+
+*Upload Code*
+Click the checkmark (✓) to verify the code.
+
+Click the arrow (→) to upload the code.
+
+If everything is correct, it will say:
+
+Done uploading.
+and your Nano will start running the program immediately.
