@@ -229,5 +229,7 @@ Created a clear, professional layout for the README with sections like Features,
 
 Ensured the README is easy to follow for beginners and showcases the project's functionality in a clear and polished way.
 
+![image](https://github.com/user-attachments/assets/426c9334-37c5-4a50-82d1-926c41a5fb00)
+
 **Total time spent: 1h**
 
