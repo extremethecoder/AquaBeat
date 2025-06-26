@@ -210,3 +210,9 @@ If everything is correct, it will say:
 
 Done uploading.
 and your Nano will start running the program immediately.
+
+# June 26:Writing the README!
+
+So, today I will be writing the README for my project and also giving all the features and everything else in it, so pls check it!
+
+README is important for the project so that we can see evrything of the project it's features and everything, and I will be writing the whole README  so that it covers the whole project.
