@@ -233,3 +233,28 @@ Ensured the README is easy to follow for beginners and showcases the project's f
 
 **Total time spent: 1h**
 
+# June 27:Designing 3D Model!
+Today, I designed the 3D model of the AquaBeats MP3 player bottle using Blender & FreeCAD. The model consists of two main sections:
+
+Upper Section: Represents the main water bottle body.
+
+Lower Section: A separate electronics compartment housing the Arduino Nano, DFPlayer Mini, speaker, battery, and buttons.
+
+I also added circular speaker grill holes at the base using the Boolean Modifier, and positioned the button placements for Play, Next, and Previous functions. The model is fully 3D-printable, designed with functional and aesthetic considerations in mind, and ready for slicing and printing.
+
+So first I have made Bottle Cover The Side one and now I am making the small parts like the electronic compartment the Cap, etc.
+
+Here are some pics of what I am making:
+
+![image](https://github.com/user-attachments/assets/01b96235-8f81-488e-952d-5f4e67164acf)
+
+Next, I have made all the Components, and here are some rendered pics of my project
+
+
+
+
+
+
+
+
+
