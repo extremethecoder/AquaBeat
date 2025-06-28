@@ -2,6 +2,7 @@
 
 AquaBeats is a compact, Arduino-powered MP3 player built into a stylish 3D-printed water bottle. Designed for fun, portability, and creativity, AquaBeats lets you play your favorite music on the go with tactile button controls and a built-in speaker — all for under $50.
 
+![image](https://github.com/user-attachments/assets/1f13953f-857f-4dba-b79e-961b7db8cf4f)
 
 
 ---
