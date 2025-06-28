@@ -5,6 +5,10 @@ description: "A 3D Printed Bottle with MP3 Built-in"
 created_at: "2025-06-22"
 ---
 
+# Total Time Spent = ~15 Hours
+
+
+
 # June 22: Got the Parts and their cost along with the software!
 
 Today, I am searching for the parts from the vendors that Hack Club gave!       Because they are the body parts of my project.
@@ -248,13 +252,17 @@ Here are some pics of what I am making:
 
 ![image](https://github.com/user-attachments/assets/01b96235-8f81-488e-952d-5f4e67164acf)
 
-Next, I have made all the Components, and here are some rendered pics of my project
+Next, I have made all the Components, and here are some pics of my project
+
+![Screenshot 2025-06-27 154419](https://github.com/user-attachments/assets/ba889c8e-34af-45c2-9e0e-b2a81e7d92cd)
 
 
+![image](https://github.com/user-attachments/assets/0c86a57c-ca43-45ab-b208-0084ed7779ba)
 
 
+![image](https://github.com/user-attachments/assets/33f71b02-d797-4ec5-8367-107ad2f20cee)
 
 
-
+**Total time spent: 4h**
 
 
