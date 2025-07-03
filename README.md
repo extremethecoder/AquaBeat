@@ -69,3 +69,12 @@ The Nano communicates with DFPlayer Mini over `SoftwareSerial`. Button presses t
 - **Port**: Select correct COM port
 4. Upload the sketch
 
+
+
+|     Item      |                                                        Purpose                                                               |     Source    |     Price     |    Links    | Total Price
+| ------------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------- | ------------- | -------------- | --------------------- |
+| Arduino Nano           | The Microcontroller                                                                                   |RoboticsDNA     |$28.11            |      https://roboticsdna.in/product/original-arduino-nano-33-iot/       |  $28.11                    |
+|DFPlayer Mini |For Music                                                            |ELECTRONICScomp        |$5.88         |      https://www.electronicscomp.com/dfrobot-dfplayer-a-mini-mp3-player?search=dfplayer%20mini       |       $5.88          |
+|MicroSD Card (8–32GB) |For Storage                                                            |RoboticsDNA        |$4.76         |       https://roboticsdna.in/product/sandisk-micro-memory-card-32gb-120mb-s-r/      |       $4.76         |
+
+
