@@ -34,8 +34,6 @@ AquaBeats is a compact, Arduino-powered MP3 player built into a stylish 3D-print
 📌 **Note**: Use 10kΩ resistors with buttons if using external pull-downs. If using `INPUT_PULLUP`, connect the button to GND.
 
 
-![e635a7e9-4888-435b-a839-10e0e6dabaa0](https://github.com/user-attachments/assets/d28c5c3f-fe08-4ca9-919d-e14322ac4f4c)
-
 
 
 ---
